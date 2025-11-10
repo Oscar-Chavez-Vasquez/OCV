@@ -33,6 +33,12 @@ As I am just starting, my repository mainly contains my class projects and exerc
 
 <!-- (Aquí puedo poner enlaces a MIS proyectos, cuando estén listos) -->
 
+</h4>  
+  
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Oscar-Chavez-Vasquez)
+
+<br/>
+
 ## 📫 How to Reach Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/oscar-chavez-vasquez/]
