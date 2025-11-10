@@ -31,9 +31,9 @@ Here are the main technologies I am learning to master in my bootcamp:
 
 As I am just starting, my repository mainly contains my class projects and exercises from the bootcamp. I am excited to start building my own original projects soon!
 
-`(Aquí puedO poner enlaces a MIS proyectos, cuando estén listos)`
+<!-- (Aquí puedo poner enlaces a MIS proyectos, cuando estén listos) -->
 
 ## 📫 How to Reach Me
 
-* **LinkedIn:** [https://linkedin.com/in/tu-usuario-de-linkedin]
-* **Email:** [tu.email@ejemplo.com]
+* **LinkedIn:** [https://www.linkedin.com/in/oscar-chavez-vasquez/]
+* **Email:** [ochv.job@gmail.com]
