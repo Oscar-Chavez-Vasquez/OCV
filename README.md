@@ -31,7 +31,7 @@ Here are the main technologies I am learning to master in my bootcamp:
 
 As I am just starting, my repository mainly contains my class projects and exercises from the bootcamp. I am excited to start building my own original projects soon!
 
-*(Aquí puedes poner enlaces a tus proyectos, como la calculadora o el "task6", cuando estén listos)*
+`(Aquí puedO poner enlaces a MIS proyectos, cuando estén listos)`
 
 ## 📫 How to Reach Me
 
