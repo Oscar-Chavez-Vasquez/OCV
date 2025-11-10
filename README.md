@@ -35,7 +35,7 @@ As I am just starting, my repository mainly contains my class projects and exerc
 
 </h4>  
   
-![My GitHub contribution graph](https://raw.githubusercontent.com/Oscar-Chavez-Vasquez/Oscar-Chavez-Vasquez/main/github-contribution-grid-snake.svg)
+![My GitHub contribution graph](https://raw.githubusercontent.com/Oscar-Chavez-Vasquez/Oscar-Chavez-Vasquez/main/dist/github-snake-dark.svg)
 
 <br/>
 
