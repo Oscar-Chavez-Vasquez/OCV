@@ -24,10 +24,10 @@ jobs:
         with:
           github_user_name: ochv-dev
           outputs: |
-            # Versión Light: Azul estándar de GitHub
-            dist/github-snake.svg?color_snake=#0969da&color_dots=#ebedf0,#b6e3ff,#80cfff,#4db8ff,#0969da
-            # Versión Dark: Azul neón (modo oscuro)
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#58a6ff&color_dots=#161b22,#0d1117,#1f6feb,#388bfd,#58a6ff
+            # Modo Claro: Serpiente Azul (#0969da) + Puntos Verdes (por defecto)
+            dist/github-snake.svg?color_snake=#0969da
+            # Modo Oscuro: Serpiente Azul Neón (#58a6ff) + Puntos Verdes Neón (palette=github-dark)
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#58a6ff
 
       # Paso 3: Sube los archivos generados (dist) a la rama 'output'
       - name: Push snake to output branch
