@@ -40,6 +40,9 @@ As I am just starting, my repository mainly contains my class projects and exerc
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ochv-dev/ochv-dev/blob/output/github-snake.svg?raw=true">
   <img alt="github-snake" src="https://github.com/ochv-dev/ochv-dev/blob/output/github-snake.svg?raw=true">
 </picture>
+<div align="left">
+  <img src="./assets/legend.svg" alt="Leyenda de contribuciones">
+</div>
 
 <br/>
 
