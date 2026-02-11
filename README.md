@@ -35,8 +35,11 @@ As I am just starting, my repository mainly contains my class projects and exerc
 
 </h4>  
   
-![Snake animation](https://github.com/ochv-dev/ochv-dev/blob/output/github-snake.svg?raw=true)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ochv-dev/ochv-dev/blob/output/github-snake-dark.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ochv-dev/ochv-dev/blob/output/github-snake.svg?raw=true">
+  <img alt="github-snake" src="https://github.com/ochv-dev/ochv-dev/blob/output/github-snake.svg?raw=true">
+</picture>
 
 <br/>
 
