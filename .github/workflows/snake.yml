@@ -1,38 +1,35 @@
-# Nombre del flujo de trabajo
 name: Generate Snake Animation
 
 on:
-  # Esto lo corre automáticamente cada 12 horas
+  # Ejecuta el workflow automáticamente cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
   
-  # Esto te permite correrlo manualmente desde la pestaña "Actions"
+  # Permite la ejecución manual desde la pestaña Actions
   workflow_dispatch:
 
 jobs:
   build:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-
-    runs-on: ubuntu-latest
+    
     steps:
-      # 1. Obtiene el código de tu repositorio
+      # Paso 1: Clona el repositorio
       - uses: actions/checkout@v3
 
-      # 2. Aquí está el bloque que tú encontraste
+      # Paso 2: Genera la animación de la serpiente
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          # Tu nombre de usuario (ya está puesto)
           github_user_name: ochv-dev
-          
-          # Los 3 archivos que se van a crear (simple, modo oscuro y GIF)
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            # Versión Light: Azul estándar de GitHub
+            dist/github-snake.svg?color_snake=#0969da&color_dots=#ebedf0,#b6e3ff,#80cfff,#4db8ff,#0969da
+            # Versión Dark: Azul neón (modo oscuro)
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#58a6ff&color_dots=#161b22,#0d1117,#1f6feb,#388bfd,#58a6ff
 
-      # 3. Este paso es CRÍTICO: toma los archivos creados y los guarda en tu repositorio
+      # Paso 3: Sube los archivos generados (dist) a la rama 'output'
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
