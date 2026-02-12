@@ -19,18 +19,18 @@ Soy graduado del **Bootcamp Full Stack Java Developer** de **Generation Chile** 
 Estas son las principales tecnologías con las que trabajo:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
   
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
 </p>
 
 ## 🚀 Proyectos Destacados
@@ -42,9 +42,7 @@ Proyecto de graduación desarrollado por un equipo de 6 personas. **Exportify** 
 
 * **Logro Clave:** Despliegue de un MVP funcional utilizando metodologías ágiles (Scrum).
 * **Tech Stack:** React, CSS3, Vercel, Git/GitHub.
-* **Enlaces:** [💻 Ver Código](https://github.com/ochv-dev/Proyecto-Integrador-Front-Loopers) | [🌐 Ver Demo en vivo](https://proyecto-integrador-front-loopers.vercel.app/)
-
-</h4>  
+* **Enlaces:** [💻 Ver Código](https://github.com/ochv-dev/Proyecto-Integrador-Front-Loopers) | [🌐 Ver Demo en vivo](https://proyecto-integrador-front-loopers.vercel.app/) 
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ochv-dev/ochv-dev/blob/output/github-snake-dark.svg?raw=true&v=2">
