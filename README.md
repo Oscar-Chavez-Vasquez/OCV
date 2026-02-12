@@ -58,6 +58,8 @@ Final bootcamp project developed by a squad of 6. **Exportify** is a web platfor
 ## 📫 Let's Connect!
 
 I am open to new opportunities. Feel free to reach out!
+<br/>
+**Click on the icons below to reach out or download my resume:**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/oscar-chavez-vasquez/" target="_blank">
