@@ -8,17 +8,15 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un **Desarrollador Full Stack Java en formación**. Me apasiona la tecnología y aprender a construir aplicaciones web seguras y de alto rendimiento.
+Soy **Junior Full Stack Java Developer** e **Ingeniero de Ejecución Industrial** titulado de la *Universidad de Santiago de Chile (USACH)*.
 
-Mi formación base es en **Ingeniería de Ejecución Industrial** de la *Universidad de Santiago de Chile (USACH)*. Esta carrera me dio fuertes habilidades en resolución de problemas, optimización de procesos y pensamiento analítico.
+Combino mi formación en **optimización de procesos y pensamiento analítico** con mi pasión por desarrollar aplicaciones web seguras y eficientes. Esta mezcla me permite entender no solo el código, sino también la lógica de negocio detrás de cada solución.
 
-¡Ahora estoy aplicando esa mentalidad analítica al mundo del desarrollo de software!
-
-Actualmente estoy cursando el **Bootcamp Full Stack Java Developer** de 14 semanas en **Generation Chile**.
+Soy graduado del **Bootcamp Full Stack Java Developer** de **Generation Chile** (2026).
 
 ## 🛠️ Mi Tech Stack
 
-Aquí están las principales tecnologías que estoy aprendiendo a dominar en mi bootcamp:
+Estas son las principales tecnologías con las que trabajo:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -27,15 +25,21 @@ Aquí están las principales tecnologías que estoy aprendiendo a dominar en mi 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Advanced SQL"/>
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 🚀 Mis Proyectos
+## 🚀 Proyectos Destacados
 
-Como estoy recién comenzando, mi repositorio contiene principalmente mis proyectos de clase y ejercicios del bootcamp. ¡Estoy emocionado por empezar a construir mis propios proyectos originales pronto!
+### 🚢 Exportify (Proyecto Final)
+*Creado por el equipo "Front Loopers" | Frontend e Integración*
+
+Proyecto de graduación desarrollado por un equipo de 6 personas. **Exportify** es una plataforma web diseñada para apoyar a mujeres emprendedoras a exportar productos de sus PyMEs.
+
+* **Logro Clave:** Despliegue de un MVP funcional utilizando metodologías ágiles (Scrum).
+* **Tech Stack:** React, CSS3, Vercel, Git/GitHub.
+* **Enlaces:** [💻 Ver Código](https://github.com/ochv-dev/Proyecto-Integrador-Front-Loopers) | [🌐 Ver Demo en vivo](https://proyecto-integrador-front-loopers.vercel.app/)
 
 </h4>  
   
@@ -51,7 +55,22 @@ Como estoy recién comenzando, mi repositorio contiene principalmente mis proyec
 
 <br/>
 
-## 📫 Cómo contactarme
+## 📫 ¡Conectemos!
 
-* **LinkedIn:** [https://www.linkedin.com/in/oscar-chavez-vasquez/]
-* **Email:** [ochv.job@gmail.com]
+Estoy abierto a nuevas oportunidades laborales. ¡No dudes en contactarme!<br/>
+**Haz clic en los iconos de abajo para contactarme directamente o descargar mi CV:**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/oscar-chavez-vasquez/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+  <a href="mailto:ochv.job@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+  </a>
+  <a href="https://wa.me/56989400804" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>
+  </a>
+  <a href="./assets/CV_Oscar_Chavez_Vasquez.pdf" target="_blank" title="Descargar CV">
+     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="40" height="40" alt="Descargar CV"/>
+  </a>
+</p>
