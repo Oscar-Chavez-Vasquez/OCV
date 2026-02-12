@@ -61,16 +61,5 @@ Estoy abierto a nuevas oportunidades laborales. ¡No dudes en contactarme!<br/>
 **Haz clic en los iconos de abajo para contactarme directamente o descargar mi CV:**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/oscar-chavez-vasquez/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-  <a href="mailto:ochv.job@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-  </a>
-  <a href="https://wa.me/56989400804" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>
-  </a>
-  <a href="./assets/CV_Oscar_Chavez_Vasquez.pdf" target="_blank" title="Descargar CV">
-     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="40" height="40" alt="Descargar CV"/>
-  </a>
+  <a href="https://www.linkedin.com/in/oscar-chavez-vasquez/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a><a href="mailto:ochv.job@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a><a href="https://wa.me/56989400804" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/></a><a href="./assets/CV_Oscar_Chavez_Vasquez.pdf" target="_blank" title="Download CV"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="40" height="40" alt="Download CV"/></a>
 </p>
